@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Luigi!<br>🎓 Currently studying at ETEC Vasco Antônio Venchiarutti (Systems Development Technician Course)<br>💻 Learning and exploring the world of programming<br>🚀 Passionate about technology and always looking to improve my skills
+👋 Hi, I'm Luigi!<br><br>🎓 Currently studying at ETEC Vasco Antônio Venchiarutti (Systems Development Technician Course)<br><br>💻 Learning and exploring the world of programming<br><br>🚀 Passionate about technology and always looking to improve my skills
 
 
 ## 🌐 Socials:
